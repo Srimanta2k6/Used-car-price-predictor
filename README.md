@@ -113,6 +113,3 @@ The dataset contains **2059 used car listings** with features such as:
 ## 👨‍💻 Author  
 **Srimanta Kumar Rout (2401020260)**
 AI PROJECT
-
-**Nikhil Swarup Das (2401020189)**  
-AI Project
